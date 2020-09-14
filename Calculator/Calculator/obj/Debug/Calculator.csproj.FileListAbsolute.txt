@@ -1,0 +1,14 @@
+D:\Javi\Desktop\Calculator\Calculator\bin\Debug\Calculadora.exe
+D:\Javi\Desktop\Calculator\Calculator\bin\Debug\Calculadora.pdb
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\App.g.cs
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora_MarkupCompile.cache
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora_MarkupCompile.lref
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora.g.resources
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora.exe
+D:\Javi\Desktop\Calculator\Calculator\obj\Debug\Calculadora.pdb
